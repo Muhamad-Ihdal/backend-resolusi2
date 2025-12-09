@@ -2,3 +2,5 @@ road map menuju karir backen devloper
 - belajar pytoh dasar
 - belajar oop python
 - belajar version control system
+- belajar flash
+- belajar fastAPI
